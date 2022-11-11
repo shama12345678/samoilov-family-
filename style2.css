@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: darkblue;
+}
+header img {
+    margin: 10px;
+}
+header a {
+    font-size: 30px;
+    border: 1px solid yellow;
+    background-color:  yellow;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+.h3 {
+    text-align: left;
+    color: red;
+}
+main img {
+    margin: 10px;
+}
+h1 {
+   text-align: center;
+}
+.img2 {
+    margin: 0px;
+}
+.h5 {
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    font-size: 40px;
+}
+footer {
+    background-color: darkblue;
+    color: white;
+}
+footer h2 {
+    margin: 20px 0px 20px 30px ;
+}
